@@ -23,16 +23,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
   - Matplotlib  
   - Scikit-learn  
 
-Recomenda-se o uso de um ambiente virtual (como `venv` ou `conda`) para isolar as dependências.  
-
-### 2. Instalação de Dependências  
-Clone o repositório e instale as dependências:  
-```bash
-git clone https://https://github.com/larissalemos-16/PtojetoT3Implementa-oeAnalise/edit/main/README.md
-cd seu-repositorio
-pip install -r requirements.txt
-
-### 3. Principais considerações
+### 2. Conclusão e consideração
 
 Resultados Obtidos
 O modelo atingiu uma acurácia média de X% e um F1-score médio de Y%, com desempenho superior em classes bem representadas.
@@ -40,5 +31,12 @@ A matriz de confusão revelou que imagens estilizadas são mais desafiadoras par
 Limitações Identificadas
 Desbalanceamento de classes: Algumas classes apresentaram menor representação no dataset, o que impactou a performance do modelo.
 Qualidade das imagens: A presença de ruído e variações de iluminação dificultaram a classificação.
+Recomenda-se o uso de um ambiente virtual (como `venv` ou `conda`) para isolar as dependências.  
 
+### 3. Instalação de Dependências  
+Clone o repositório e instale as dependências:  
+```bash
+git clone https://https://github.com/larissalemos-16/PtojetoT3Implementa-oeAnalise/edit/main/README.md
+cd seu-repositorio
+pip install -r requirements.txt
 
