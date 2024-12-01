@@ -32,7 +32,7 @@ git clone https://https://github.com/larissalemos-16/PtojetoT3Implementa-oeAnali
 cd seu-repositorio
 pip install -r requirements.txt
 
-Principais considerações
+### 3. Principais considerações
 
 Resultados Obtidos
 O modelo atingiu uma acurácia média de X% e um F1-score médio de Y%, com desempenho superior em classes bem representadas.
